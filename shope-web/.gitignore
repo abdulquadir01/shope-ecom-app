@@ -1,9 +1,5 @@
 HELP.md
 target/
-shope-common/target/
-shope-web/target/
-shope-web/backend/target/
-shope-web/frontend/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -35,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-shope-common/.vscode/
-shope-web/.vscode/
-shope-web/backend/.vscode/
-shope-web/frontend/.vscode/
