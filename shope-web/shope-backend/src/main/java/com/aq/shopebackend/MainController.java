@@ -1,4 +1,4 @@
-package com.aq.shopebackend.controller;
+package com.aq.shopebackend;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
